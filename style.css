@@ -1,18 +1,18 @@
 .countdown-container {
-
-  padding: 24px;
+  background-image: url("https://1.bp.blogspot.com/-KtNAj9yPpTA/YAyLKFmTb7I/AAAAAAAAA78/yTFMNW0kcAgg9t6SURQZZh8sOvxyIT2egCLcBGAsYHQ/s16000/cpa9.jpg");
+  padding: 80px;
   color: #1d3357;
   font-family: "Roboto", sans-serif;
   width: 500px;
   box-sizing: border-box;
   margin: 0 auto;
-
+  box-shadow: 0 4px 22px -8px rgba(0, 0, 0, 0.6);
 }
 
 .countdown-container .countdown-heading {
   text-align: center;
   font-size: 32px;
-  margin: 8px 0;
+  margin:10px 0;
 }
 
 .countdown-container .countdown-details {
@@ -20,17 +20,17 @@
 }
 
 .timer {
-  background:https://1.bp.blogspot.com/-ELzBYTOg2_c/XtVd1EDYqDI/AAAAAAAATFk/9V75uS4Q2LQQatC3LjgTIAJJRzP88FMBgCLcBGAsYHQ/s1600/2017-09-19-11.48.22.jpg;
+  background: #6d33a6;
   color: #f1faee;
   padding: 16px;
   display: flex;
   justify-content: space-between;
   text-align: right;
-  border-radius: 10px;
+  border-radius: 18px;
 }
 
 .timer .number {
-  font-size: 56px;
+  font-size: 25px;
   font-weight: bold;
 }
 
@@ -43,7 +43,7 @@
   text-decoration: none;
   padding: 16px 32px;
   display: block;
-  margin: 32px -24px -24px -24px;
+  margin: 150px -24px -24px -24px;
   color: #f1faee;
   font-weight: bold;
   text-align: center;
@@ -51,11 +51,5 @@
 }
 
 .countdown-btn:hover {
-  background: #e03f3f;
+  background: #52f520;
 }
-body {
-    background-position: center;
-    background-image: url("https://1.bp.blogspot.com/-ELzBYTOg2_c/XtVd1EDYqDI/AAAAAAAATFk/9V75uS4Q2LQQatC3LjgTIAJJRzP88FMBgCLcBGAsYHQ/s1600/2017-09-19-11.48.22.jpg");
-    background-attachment: fixed;
-}
-
