@@ -56,7 +56,12 @@ body {
   transition: background-color 500ms;
 }
 
-.countdown-btn:hover {
+.countdown-btn:hover {body {
+    background-position: center;
+    background-image: url("https://1.bp.blogspot.com/-CsSQGva15Fk/YMiKYxocnAI/AAAAAAAAChc/86ukoeIoOMgJ8Spiz7CLdZzDpslJz3OkwCLcBGAsYHQ/s16000/2017-09-19-11.48.22.jpg");
+    background-attachment: fixed;
+}
+
   background: #e03f3f;
 }
 body {
